@@ -20,3 +20,74 @@ System.out,println("helloworld");
  > 学的不仅是技术更是梦想  
  
  按住<kbd>Ctrl</kbd>
+ 
+ 
+ 
+	package com.xmcc.pojo;
+
+/**
+ * @author QiChang
+ * @company 小码聪聪
+ * @create 2019-03-21 16:08
+ * @result
+ */
+public class Flower {
+    private int id;
+    private String name;
+    private float price;
+    private String production;
+
+    public Flower() {
+        super();
+    }
+
+    public Flower(int id, String name, float price, String production) {
+        this.id = id;
+        this.name = name;
+        this.price = price;
+        this.production = production;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public float getPrice() {
+        return price;
+    }
+
+    public void setPrice(float price) {
+        this.price = price;
+    }
+
+    public String getProduction() {
+        return production;
+    }
+
+    public void setProduction(String production) {
+        this.production = production;
+    }
+
+    @Override
+    public String toString() {
+        return "Flower{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", production='" + production + '\'' +
+                '}';
+    }
+}
+	
