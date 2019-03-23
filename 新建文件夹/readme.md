@@ -23,14 +23,10 @@ System.out,println("helloworld");
  
  
  
-	package com.xmcc.pojo;
+```java
 
-/**
- * @author QiChang
- * @company 小码聪聪
- * @create 2019-03-21 16:08
- * @result
- */
+package com.xmcc.pojo;
+
 public class Flower {
     private int id;
     private String name;
@@ -90,4 +86,6 @@ public class Flower {
                 '}';
     }
 }
+```
+
 	
