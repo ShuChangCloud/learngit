@@ -88,5 +88,7 @@ public class Flower {
 }
 ```
 
-​	![Spring FremeWork Runtime](C:/Users/13259/Desktop/Spring FremeWork Runtime.png)
+![Spring FremeWork Runtime](../iamge/Spring FremeWork Runtime.png)
+
+
 
