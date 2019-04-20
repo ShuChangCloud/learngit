@@ -1,6 +1,4 @@
----
-typora-copy-images-to: ..\iamge
----
+
 
 # 我是一级标题
 ## 我是二级标题
@@ -24,6 +22,8 @@ System.out,println("helloworld");
  > 学的不仅是技术更是梦想  
 
  按住<kbd>Ctrl</kbd>
+
+
 
  
 
@@ -98,6 +98,10 @@ public class Flower {
 
 
 
-![Spring FremeWork Runtime](https://github.com/ShuChangCloud/learngit/blob/master/iamge/Spring%20FremeWork%20Runtime.png)
+![Spring FremeWork Runtime](https://github.com/ShuChangCloud/learngit/raw/master/iamge/Spring%20FremeWork%20Runtime.png)
+
+
+
+
 
 是我
