@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ..\iamge
+---
+
 # 我是一级标题
 ## 我是二级标题
 ### 我是三级标题
@@ -88,4 +92,14 @@ public class Flower {
 }
 ```
 
-![Spring](../iamge/Spring FremeWork Runtime.png)
+
+
+
+
+
+
+![Spring FremeWork Runtime](../iamge/Spring FremeWork Runtime.png)
+
+
+
+是
