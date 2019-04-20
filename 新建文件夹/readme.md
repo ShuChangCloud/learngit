@@ -88,7 +88,4 @@ public class Flower {
 }
 ```
 
-![Spring FremeWork Runtime](../iamge/Spring FremeWork Runtime.png)
-
-
-
+![Spring](../iamge/Spring FremeWork Runtime.png)
