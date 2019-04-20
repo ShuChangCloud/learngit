@@ -98,12 +98,6 @@ public class Flower {
 
 
 
-![Spring FremeWork Runtime](G:\learngit\iamge/Spring FremeWork Runtime.png)
-
-
-
-
-
-
+![Spring FremeWork Runtime](https://github.com/ShuChangCloud/learngit/blob/master/iamge/Spring%20FremeWork%20Runtime.png)
 
 是我
